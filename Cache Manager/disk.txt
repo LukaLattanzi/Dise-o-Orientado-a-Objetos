@@ -1,0 +1,6 @@
+0 0 22 Student1
+1 1 23 Student2
+2 2 25 Student3
+3 3 29 Student4
+4 4 31 Student6
+5 5 32 Student7
